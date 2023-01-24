@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Tohid Haghighi
 
-I am Full-stack developer expertise in Dotnet and VueJs more than 6 years of experience
+I am Full Stack developer expertise in Dotnet and VueJs more than 6 years of experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/tohid-haghighy/)
 [![website](https://img.shields.io/badge/personal-blog-blueviolet?style=flat)](https://tohidhaghighi.ir)
